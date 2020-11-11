@@ -1,0 +1,4 @@
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\06_boolean_challenge_gold\obj\Debug\netcoreapp3.1\06_boolean_challenge_gold.AssemblyInfoInputs.cache
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\06_boolean_challenge_gold\obj\Debug\netcoreapp3.1\06_boolean_challenge_gold.AssemblyInfo.cs
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\06_boolean_challenge_gold\obj\Debug\netcoreapp3.1\06_boolean_challenge_gold.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\06_boolean_challenge_gold\obj\Debug\netcoreapp3.1\06_boolean_challenge_gold.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\07_conditionals_multiple_if\bin\Debug\07_conditionals_multiple_if.exe.config
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\07_conditionals_multiple_if\bin\Debug\07_conditionals_multiple_if.exe
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\07_conditionals_multiple_if\bin\Debug\07_conditionals_multiple_if.pdb
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\07_conditionals_multiple_if\obj\Debug\07_conditionals_multiple_if.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\07_conditionals_multiple_if\obj\Debug\07_conditionals_multiple_if.exe
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\07_conditionals_multiple_if\obj\Debug\07_conditionals_multiple_if.pdb

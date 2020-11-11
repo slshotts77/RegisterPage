@@ -1,0 +1,6 @@
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\09_loops_most_common_loop\bin\Debug\09_loops_most_common_loop.exe.config
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\09_loops_most_common_loop\bin\Debug\09_loops_most_common_loop.exe
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\09_loops_most_common_loop\bin\Debug\09_loops_most_common_loop.pdb
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\09_loops_most_common_loop\obj\Debug\09_loops_most_common_loop.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\09_loops_most_common_loop\obj\Debug\09_loops_most_common_loop.exe
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\09_loops_most_common_loop\obj\Debug\09_loops_most_common_loop.pdb

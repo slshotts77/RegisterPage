@@ -1,0 +1,6 @@
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\09_loops_silver\obj\Debug\09_loops_silver.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\09_loops_silver\bin\Debug\09_loops_silver.exe.config
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\09_loops_silver\bin\Debug\09_loops_silver.exe
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\09_loops_silver\bin\Debug\09_loops_silver.pdb
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\09_loops_silver\obj\Debug\09_loops_silver.exe
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\09_loops_silver\obj\Debug\09_loops_silver.pdb

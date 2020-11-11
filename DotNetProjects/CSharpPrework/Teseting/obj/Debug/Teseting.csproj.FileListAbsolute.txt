@@ -1,0 +1,7 @@
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\Teseting\bin\Debug\Teseting.exe.config
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\Teseting\bin\Debug\Teseting.exe
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\Teseting\bin\Debug\Teseting.pdb
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\Teseting\obj\Debug\Teseting.csprojAssemblyReference.cache
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\Teseting\obj\Debug\Teseting.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\Teseting\obj\Debug\Teseting.exe
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\Teseting\obj\Debug\Teseting.pdb

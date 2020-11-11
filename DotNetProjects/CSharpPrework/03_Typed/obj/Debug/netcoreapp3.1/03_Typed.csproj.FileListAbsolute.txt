@@ -1,0 +1,13 @@
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\03_Typed\bin\Debug\netcoreapp3.1\03_Typed.exe
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\03_Typed\bin\Debug\netcoreapp3.1\03_Typed.deps.json
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\03_Typed\bin\Debug\netcoreapp3.1\03_Typed.runtimeconfig.json
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\03_Typed\bin\Debug\netcoreapp3.1\03_Typed.runtimeconfig.dev.json
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\03_Typed\bin\Debug\netcoreapp3.1\03_Typed.dll
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\03_Typed\bin\Debug\netcoreapp3.1\03_Typed.pdb
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\03_Typed\obj\Debug\netcoreapp3.1\03_Typed.csprojAssemblyReference.cache
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\03_Typed\obj\Debug\netcoreapp3.1\03_Typed.AssemblyInfoInputs.cache
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\03_Typed\obj\Debug\netcoreapp3.1\03_Typed.AssemblyInfo.cs
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\03_Typed\obj\Debug\netcoreapp3.1\03_Typed.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\03_Typed\obj\Debug\netcoreapp3.1\03_Typed.dll
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\03_Typed\obj\Debug\netcoreapp3.1\03_Typed.pdb
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\03_Typed\obj\Debug\netcoreapp3.1\03_Typed.genruntimeconfig.cache

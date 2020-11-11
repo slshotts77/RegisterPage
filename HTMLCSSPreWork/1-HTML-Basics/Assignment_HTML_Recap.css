@@ -1,0 +1,4 @@
+/* rule-set #1: Everything within the body tag will have a blue background. */
+body {
+    background-color:linear-gradient (red, yellow);
+}

@@ -1,0 +1,12 @@
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\04_Operators\obj\Debug\netcoreapp3.1\04_Operators.AssemblyInfoInputs.cache
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\04_Operators\obj\Debug\netcoreapp3.1\04_Operators.AssemblyInfo.cs
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\04_Operators\obj\Debug\netcoreapp3.1\04_Operators.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\04_Operators\bin\Debug\netcoreapp3.1\04_Operators.exe
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\04_Operators\bin\Debug\netcoreapp3.1\04_Operators.deps.json
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\04_Operators\bin\Debug\netcoreapp3.1\04_Operators.runtimeconfig.json
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\04_Operators\bin\Debug\netcoreapp3.1\04_Operators.runtimeconfig.dev.json
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\04_Operators\bin\Debug\netcoreapp3.1\04_Operators.dll
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\04_Operators\bin\Debug\netcoreapp3.1\04_Operators.pdb
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\04_Operators\obj\Debug\netcoreapp3.1\04_Operators.dll
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\04_Operators\obj\Debug\netcoreapp3.1\04_Operators.pdb
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\04_Operators\obj\Debug\netcoreapp3.1\04_Operators.genruntimeconfig.cache

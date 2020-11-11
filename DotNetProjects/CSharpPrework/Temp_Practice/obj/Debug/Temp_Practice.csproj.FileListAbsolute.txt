@@ -1,0 +1,7 @@
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\Temp_Practice\obj\Debug\Temp_Practice.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\Temp_Practice\bin\Debug\Temp_Practice.exe.config
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\Temp_Practice\bin\Debug\Temp_Practice.exe
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\Temp_Practice\bin\Debug\Temp_Practice.pdb
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\Temp_Practice\obj\Debug\Temp_Practice.csprojAssemblyReference.cache
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\Temp_Practice\obj\Debug\Temp_Practice.exe
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\Temp_Practice\obj\Debug\Temp_Practice.pdb

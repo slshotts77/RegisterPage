@@ -1,0 +1,7 @@
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\07_conditional_switch\obj\Debug\07_conditional_switch.csprojAssemblyReference.cache
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\07_conditional_switch\obj\Debug\07_conditional_switch.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\07_conditional_switch\bin\Debug\07_conditional_switch.exe.config
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\07_conditional_switch\bin\Debug\07_conditional_switch.exe
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\07_conditional_switch\bin\Debug\07_conditional_switch.pdb
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\07_conditional_switch\obj\Debug\07_conditional_switch.exe
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\07_conditional_switch\obj\Debug\07_conditional_switch.pdb

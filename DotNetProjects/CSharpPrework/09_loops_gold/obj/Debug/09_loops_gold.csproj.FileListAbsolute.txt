@@ -1,0 +1,6 @@
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\09_loops_gold\obj\Debug\09_loops_gold.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\09_loops_gold\bin\Debug\09_loops_gold.exe.config
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\09_loops_gold\bin\Debug\09_loops_gold.exe
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\09_loops_gold\bin\Debug\09_loops_gold.pdb
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\09_loops_gold\obj\Debug\09_loops_gold.exe
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\09_loops_gold\obj\Debug\09_loops_gold.pdb

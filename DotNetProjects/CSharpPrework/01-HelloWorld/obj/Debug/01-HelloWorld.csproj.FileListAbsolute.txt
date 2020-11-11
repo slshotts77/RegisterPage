@@ -1,0 +1,6 @@
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\01-HelloWorld\bin\Debug\01-HelloWorld.exe.config
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\01-HelloWorld\bin\Debug\01-HelloWorld.exe
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\01-HelloWorld\bin\Debug\01-HelloWorld.pdb
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\01-HelloWorld\obj\Debug\01-HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\01-HelloWorld\obj\Debug\01-HelloWorld.exe
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\01-HelloWorld\obj\Debug\01-HelloWorld.pdb

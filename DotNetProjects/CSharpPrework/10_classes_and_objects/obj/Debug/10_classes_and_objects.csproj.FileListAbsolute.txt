@@ -1,0 +1,6 @@
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\10_classes_and_objects\bin\Debug\10_classes_and_objects.exe.config
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\10_classes_and_objects\bin\Debug\10_classes_and_objects.exe
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\10_classes_and_objects\bin\Debug\10_classes_and_objects.pdb
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\10_classes_and_objects\obj\Debug\10_classes_and_objects.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\10_classes_and_objects\obj\Debug\10_classes_and_objects.exe
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\10_classes_and_objects\obj\Debug\10_classes_and_objects.pdb

@@ -1,0 +1,75 @@
+ body{
+ background-color: lightgrey;
+ }
+
+ .nav{
+ position: fixed;
+ top: 1%;
+ left:1%;
+ width: 250px;
+ background-color: yellow;
+ border: 10px solid black;
+ text-align:center;
+ font-family: "Pacifico", Times, serif;  
+ }
+
+ /* 2 */
+ .background1{
+ background-color: yellow;
+ text-align: left;
+ }
+
+ /* 4 */
+ h1{
+ text-align: center;
+ font-weight: bold;
+ font-size: 40px;
+ }
+
+ /* 6 */
+ #number-one{
+ text-align: center;
+ color: yellow;
+ font-weight: bold;
+ font-size: 25px;
+ }
+
+ /* 8 */
+ .Bee{
+   border:10px solid rgb(145, 145, 124);
+   margin-top: 1px;
+   margin-right: 1625px;
+   margin-bottom: 300px;
+   margin-left: 100px;
+   padding: 0px 10px 25px 25px; 
+   }
+
+ /* 10 */
+ .Banana{
+   border:10px solid rgb(145, 145, 124);
+   margin-top: -750px;
+   margin-right: 1175px;
+   margin-bottom: 100px;
+   margin-left: 550px;
+   padding: 0px 10px 25px 25px;
+   }
+
+ /* 12 */
+ .Cheese{
+  border:10px solid rgb(145, 145, 124);
+   margin-top: -550px;
+   margin-right: 720px;
+   margin-bottom: 10px;
+   margin-left: 1000px;
+   padding: 0px 10px 25px 25px;
+   }
+
+ /* 14 */
+ .Lemon{
+  border:10px solid rgb(145, 145, 124);
+   margin-top: -460px;
+   margin-right: 275px;
+   margin-bottom: 300px;
+   margin-left: 1450px;
+   padding: 0px 10px 25px 25px;
+   }

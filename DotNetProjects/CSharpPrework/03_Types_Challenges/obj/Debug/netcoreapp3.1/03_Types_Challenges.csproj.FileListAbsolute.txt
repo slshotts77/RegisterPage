@@ -1,0 +1,13 @@
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\03_Types_Challenges\obj\Debug\netcoreapp3.1\03_Types_Challenges.csprojAssemblyReference.cache
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\03_Types_Challenges\obj\Debug\netcoreapp3.1\03_Types_Challenges.AssemblyInfoInputs.cache
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\03_Types_Challenges\obj\Debug\netcoreapp3.1\03_Types_Challenges.AssemblyInfo.cs
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\03_Types_Challenges\obj\Debug\netcoreapp3.1\03_Types_Challenges.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\03_Types_Challenges\bin\Debug\netcoreapp3.1\03_Types_Challenges.exe
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\03_Types_Challenges\bin\Debug\netcoreapp3.1\03_Types_Challenges.deps.json
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\03_Types_Challenges\bin\Debug\netcoreapp3.1\03_Types_Challenges.runtimeconfig.json
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\03_Types_Challenges\bin\Debug\netcoreapp3.1\03_Types_Challenges.runtimeconfig.dev.json
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\03_Types_Challenges\bin\Debug\netcoreapp3.1\03_Types_Challenges.dll
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\03_Types_Challenges\bin\Debug\netcoreapp3.1\03_Types_Challenges.pdb
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\03_Types_Challenges\obj\Debug\netcoreapp3.1\03_Types_Challenges.dll
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\03_Types_Challenges\obj\Debug\netcoreapp3.1\03_Types_Challenges.pdb
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\03_Types_Challenges\obj\Debug\netcoreapp3.1\03_Types_Challenges.genruntimeconfig.cache

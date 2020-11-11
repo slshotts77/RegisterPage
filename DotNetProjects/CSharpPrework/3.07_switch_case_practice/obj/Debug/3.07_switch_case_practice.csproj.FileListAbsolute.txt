@@ -1,0 +1,6 @@
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\3.07_switch_case_practice\bin\Debug\3.07_switch_case_practice.exe.config
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\3.07_switch_case_practice\bin\Debug\3.07_switch_case_practice.exe
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\3.07_switch_case_practice\bin\Debug\3.07_switch_case_practice.pdb
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\3.07_switch_case_practice\obj\Debug\3.07_switch_case_practice.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\3.07_switch_case_practice\obj\Debug\3.07_switch_case_practice.exe
+C:\Users\Steve\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPrework\3.07_switch_case_practice\obj\Debug\3.07_switch_case_practice.pdb
